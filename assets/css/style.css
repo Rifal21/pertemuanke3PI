@@ -1,0 +1,8 @@
+.is-divider {
+  height: 3px;
+  display: block;
+  background-color: rgba(253, 253, 253, 0.534);
+  margin: 1em 0 1em;
+  width: 100%;
+  max-width: 30px;
+}
